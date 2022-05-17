@@ -33,7 +33,7 @@
     "scripts/template*"
   ],
   "defaultConfig": {
-    "pluginsFolder": "./examples",
+    "pluginsFolder": "./gmPlugin",
     "releaseFolder": "./release",
     "copyToBD": true,
     "addInstallScript": true
