@@ -1,9 +1,0 @@
-path_classifiers:
-  generated:
-    - "release/*"
-  test:
-    - "tests/*.js"
-  template:
-    - "scripts/template.*"
-  docs:
-    - "docs/*"
